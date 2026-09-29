@@ -1,0 +1,25 @@
+{
+  "id": "./",
+  "name": "Treino de Verbos BR",
+  "short_name": "Verbos BR",
+  "description": "Offline-Trainer für brasilianisch-portugiesische Verben",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7f6",
+  "theme_color": "#08775b",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
